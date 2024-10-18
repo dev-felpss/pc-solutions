@@ -1,0 +1,5 @@
+3. Testar Memória RAM
+Use a ferramenta Diagnóstico de Memória do Windows:
+
+Pressione Win + R, digite mdsched.exe e pressione Enter.
+Escolha a opção de reiniciar e verificar a memória.
