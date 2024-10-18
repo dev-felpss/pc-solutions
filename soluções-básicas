@@ -1,0 +1,25 @@
+# Guia de Manutenção de Micros e Soluções para Windows
+
+
+Conteúdo
+
+1. Manutenção de Hardware
+Aqui você encontrará guias sobre como realizar manutenção em diferentes partes do computador, como:
+- [Problemas de Superaquecimento e Soluções] (docs/hardware/superaquecimento.md)
+- [Como Limpar e Substituir Componentes Internos]( docs/hardware/limpeza_substituicao.md)
+- [Problemas de Performance de CPU e Soluções] (docs/hardware/cpu_performance.md)
+
+2. Soluções para Erros do Windows
+Resolvendo os erros mais comuns no Windows:
+- [Erro de Tela Azul (BSOD) e Como Corrigir] (docs/windows-errors/tela-azul.md)
+- [Problemas de Atualização do Windows] (docs/windows-errors/atualizacao.md)
+- [Erro "O Windows Não Inicia" e Soluções] (docs/windows-errors/nao-inicia.md)
+
+3. Soluções para Softwares
+Soluções para problemas relacionados a programas e drivers no Windows:
+- [Problemas de Driver de Vídeo e Como Atualizar] (docs/software-solutions/driver-video.md)
+- [Aplicativos Que Não Respondem e Como Resolver] (docs/software-solutions/app-nao-responde.md)
+
+## Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
